@@ -1,6 +1,6 @@
 # Weather App 🌤️
 
-This is a desktop GUI app that displays live weather information for Glendale, CA. Built using Python’s Tkinter library and web scraping with BeautifulSoup4.
+This is a desktop GUI app that displays live weather information for Glendale, CA. Built using Python’s Tkinter library and web scraping using BeautifulSoup4.
 
 ![Screenshot of the app](./Weatherapp.jpg)
 
@@ -17,7 +17,6 @@ This is a desktop GUI app that displays live weather information for Glendale, C
 
 ## 📌 Notes
 🔒 The source code for this project is private.  
-📫 If you're interested in seeing the code or discussing the implementation, feel free to reach out!
 
 ---
 
